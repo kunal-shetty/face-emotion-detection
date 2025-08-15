@@ -26,5 +26,5 @@ A Python-based Emotion Detection App that analyzes user input and predicts emoti
 ## 3. Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/emotion-detection-app.git
-cd emotion-detection-app
+git clone https://github.com/kunal-shetty/face-emotion-detection.git
+cd face-emotion-detection
